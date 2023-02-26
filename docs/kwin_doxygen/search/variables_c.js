@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['name_0',['name',['../struct_k_win_1_1_output_1_1_information.html#a73ee6286e140168ed21e87b2429880ae',1,'KWin::Output::Information::name()'],['../class_k_win_1_1_tablet_pad_id.html#ac932681a914988665e44b6475218d208',1,'KWin::TabletPadId::name()'],['../struct_k_win_1_1_effects_model_1_1_effect_data.html#ae2a031ab57e16073c0c3d312cd982df9',1,'KWin::EffectsModel::EffectData::name()'],['../class_k_win_1_1_xcb_1_1_extension_data.html#aeaabf68989d15ad385a8860bad2ae836',1,'KWin::Xcb::ExtensionData::name()'],['../struct_k_win_1_1_d_bus_desktop_data_struct.html#ad1abe4af3b591dba34fbb946d600008e',1,'KWin::DBusDesktopDataStruct::name()'],['../class_k_wayland_server_1_1_output_interface_private.html#abd41b9dad91883f4695dabf613dbf9c3',1,'KWaylandServer::OutputInterfacePrivate::name()'],['../class_k_wayland_server_1_1_plasma_virtual_desktop_interface_private.html#ae14af1416f383b62d924b94037be9760',1,'KWaylandServer::PlasmaVirtualDesktopInterfacePrivate::name()'],['../class_k_wayland_server_1_1_seat_interface_private.html#a4f8244878cdf67719fda95e51e32b7b3',1,'KWaylandServer::SeatInterfacePrivate::name()'],['../class_k_wayland_server_1_1_xdg_output_v1_interface.html#ac1ec5893d1eb60fb4cff1f195e98ee4f',1,'KWaylandServer::XdgOutputV1Interface::name()'],['../struct_k_win_1_1_drm_object_1_1_property_definition.html#ae4275569c31d77604ebc6738dddd073b',1,'KWin::DrmObject::PropertyDefinition::name()']]],
+  ['ncomment_1',['ncomment',['../struct___xcursor_comments.html#a8da60b0bac175a157a09d90c5afd673e',1,'_XcursorComments']]],
+  ['net_5fframe_5fextents_2',['net_frame_extents',['../class_k_win_1_1_atoms.html#a9f501d5720df83a0aa2d90cd86e23553',1,'KWin::Atoms']]],
+  ['net_5fwm_5fcontext_5fhelp_3',['net_wm_context_help',['../class_k_win_1_1_atoms.html#ab9e2a6d76394ff36103c48b94622d0f2',1,'KWin::Atoms']]],
+  ['net_5fwm_5fping_4',['net_wm_ping',['../class_k_win_1_1_atoms.html#aa90dcc5f9a89055350ca31372861c722',1,'KWin::Atoms']]],
+  ['net_5fwm_5fsync_5frequest_5',['net_wm_sync_request',['../class_k_win_1_1_atoms.html#a387fcff6033470220d31bccfcd5b3801',1,'KWin::Atoms']]],
+  ['net_5fwm_5fsync_5frequest_5fcounter_6',['net_wm_sync_request_counter',['../class_k_win_1_1_atoms.html#ad9b9fc88ea1b8560e2a14c484d818c95',1,'KWin::Atoms']]],
+  ['net_5fwm_5ftake_5factivity_7',['net_wm_take_activity',['../class_k_win_1_1_atoms.html#a10fcb551bfd5394dbc6ac0d4cb66ecc8',1,'KWin::Atoms']]],
+  ['net_5fwm_5fuser_5ftime_8',['net_wm_user_time',['../class_k_win_1_1_atoms.html#aa4a88b6ff47c5988afc883f63937a1b9',1,'KWin::Atoms']]],
+  ['net_5fwm_5fwindow_5fopacity_9',['net_wm_window_opacity',['../class_k_win_1_1_atoms.html#aa440d0f0597b03b91888c848f1e98ed4',1,'KWin::Atoms']]],
+  ['netscape_5furl_10',['netscape_url',['../class_k_win_1_1_atoms.html#a06460a7459d4a70dadee8c34cfb74591',1,'KWin::Atoms']]],
+  ['next_11',['next',['../class_k_wayland_server_1_1_xdg_surface_interface_private.html#aa28a982d03a6881e88b2c0b0ec0c30f3',1,'KWaylandServer::XdgSurfaceInterfacePrivate::next()'],['../class_k_wayland_server_1_1_xdg_toplevel_interface_private.html#ae0bf57bbaed2b903e55c4de1d6e253da',1,'KWaylandServer::XdgToplevelInterfacePrivate::next()']]],
+  ['nextend_12',['nextEnd',['../struct_k_win_1_1_buffer_fence.html#a6d9d515e3d8271f45285afb975ff8426',1,'KWin::BufferFence']]],
+  ['nextoffset_13',['nextOffset',['../class_k_win_1_1_g_l_vertex_buffer_private.html#a668ddff4d0a87a0dce29f7a00b02fc2b',1,'KWin::GLVertexBufferPrivate']]],
+  ['nextpresentationtimestamp_14',['nextPresentationTimestamp',['../class_k_win_1_1_render_loop_private.html#a38951940cecd90a6248d4349f3aae3e0',1,'KWin::RenderLoopPrivate']]],
+  ['nimage_15',['nimage',['../struct___xcursor_images.html#a9fa3bd45f1c372ad22fef4726c6ff058',1,'_XcursorImages']]],
+  ['noborder_16',['noBorder',['../struct_k_win_1_1_session_info.html#a2244ff853c5fb7c4966f71feda22f2c5',1,'KWin::SessionInfo']]],
+  ['nondesktop_17',['nonDesktop',['../struct_k_win_1_1_output_1_1_information.html#a6ded71a1a9b473db5fca915505ab0135',1,'KWin::Output::Information']]],
+  ['notifier_18',['notifier',['../class_k_win_1_1_clock_skew_notifier_1_1_private.html#a361ba256cc51c5d02341255e019ab7de',1,'KWin::ClockSkewNotifier::Private']]],
+  ['ntoc_19',['ntoc',['../struct___xcursor_file_header.html#a92b5fd77f5ce5dd9767d1b739ec36477',1,'_XcursorFileHeader']]]
+];

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['i8xx_0',['I8XX',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4ae5bfcdb894f5c2ec335e5dde8c050e51',1,'KWin']]],
+  ['i915_1',['I915',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a2a9addc41078395d41b8ee9f90f73328',1,'KWin']]],
+  ['i965_2',['I965',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a4a9b3f4979e3c1f74db4c54cbb9b3658',1,'KWin']]],
+  ['icelake_3',['IceLake',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a16e4528448ea887717e17d108d9920c8',1,'KWin']]],
+  ['iconnamerole_4',['IconNameRole',['../class_k_win_1_1_options_model.html#a0725ab08ada623174f0965203d878da4aa3bebef9ed15fcfeca8279a4912734cd',1,'KWin::OptionsModel::IconNameRole()'],['../class_k_win_1_1_effects_model.html#afcd772d699a040e7ae6346f799ebb8c9a9410bc7064ac4fd191721903720f6b54',1,'KWin::EffectsModel::IconNameRole()'],['../class_k_win_1_1_rules_model.html#a4a74b5b1586adb3d3e5f217c106665e4ad115cde470222574dd14d25c5e666138',1,'KWin::RulesModel::IconNameRole()']]],
+  ['iconrole_5',['IconRole',['../class_k_win_1_1_tab_box_1_1_client_model.html#a4f97ee34a92d05fe678b638528dd3790a1d5fde456fab56d8628660cb3123abf1',1,'KWin::TabBox::ClientModel::IconRole()'],['../class_k_win_1_1_rules_model.html#a4a74b5b1586adb3d3e5f217c106665e4a50e544242adea768b30b2c0426d98041',1,'KWin::RulesModel::IconRole()'],['../class_k_win_1_1_tab_box_1_1_example_client_model.html#af5d4e1dc4d4c1ec9a4789aa3a51ec987a61dbab9b20272c0a579d456034a443af',1,'KWin::TabBox::ExampleClientModel::IconRole()']]],
+  ['id_6',['Id',['../class_k_win_1_1_desktops_model.html#ace81ebdf8ec628c61146d7f39cf952d5a500209bf9cedaffc66e58984bd953fd4',1,'KWin::DesktopsModel']]],
+  ['ignore_7',['Ignore',['../namespace_k_win_1_1_xwl.html#a4245fb9cb1310a1304868c4d99186352afd038fc7f319e48f3115d92bf5bdbef9',1,'KWin::Xwl']]],
+  ['ignoreminimizedstatus_8',['IgnoreMinimizedStatus',['../class_k_win_1_1_tab_box_1_1_tab_box_config.html#a389715c45c2923cface74f0f102ac5aaa8dd72c6a86d993fbf8fc3be8255685b0',1,'KWin::TabBox::TabBoxConfig']]],
+  ['ignoremultiscreen_9',['IgnoreMultiScreen',['../class_k_win_1_1_tab_box_1_1_tab_box_config.html#ac78441ecad3c5eee44e47f0bf1d14cb7a9f625fcae3d5fd7ecda3bc4b81d51193',1,'KWin::TabBox::TabBoxConfig']]],
+  ['image_10',['Image',['../class_k_win_1_1_offscreen_quick_view.html#a608a49727b70322f21fb15683406a0c6abe53a0541a6d36f6ecb879fa2c584b08',1,'KWin::OffscreenQuickView']]],
+  ['in_5fformats_11',['In_Formats',['../class_k_win_1_1_drm_plane.html#ad8b2edafd7cdf2e7ece2cc140c79dcc3a585dd974badcbda822ca97a93b90f378',1,'KWin::DrmPlane']]],
+  ['inactive_12',['Inactive',['../class_k_win_1_1_desktop_grid_effect.html#a10e991b1e0264454ea0be986e69b831ba3cab03c00dbd11bc3569afa0748013f0',1,'KWin::DesktopGridEffect::Inactive()'],['../class_k_win_1_1_overview_effect.html#a74e77c138f1c13814d36ac1afa4ca893a3cab03c00dbd11bc3569afa0748013f0',1,'KWin::OverviewEffect::Inactive()'],['../class_k_win_1_1_window_view_effect.html#a76de0a6eb538119021a19a67a5b209d2a3cab03c00dbd11bc3569afa0748013f0',1,'KWin::WindowViewEffect::Inactive()']]],
+  ['inactivetext_13',['InactiveText',['../class_color_helper.html#aa3e58b1e6ab255f1465af7b9973d5d3fab3e5626d2df6b04f346f8afe5de039ec',1,'ColorHelper']]],
+  ['inputidmatch_14',['InputIdMatch',['../namespace_k_win.html#aef6c3d1a0fcb5309953ca3229d42378dab210cecc9a492e3c317bf1ee7f3e9ce4',1,'KWin']]],
+  ['inputmethod_15',['InputMethod',['../namespace_k_wayland_server.html#af360e7d749cf79debd25f4427cea2f41ab3af76929ed9c0da766840c591aab4af',1,'KWaylandServer']]],
+  ['integer_16',['Integer',['../class_k_win_1_1_rule_item.html#a499cd568335dfee4c549c1b2cf1e8792aa6902d6f46e0853f5b59dcf085eefff7',1,'KWin::RuleItem']]],
+  ['internalrole_17',['InternalRole',['../class_k_win_1_1_effects_model.html#afcd772d699a040e7ae6346f799ebb8c9adc13446553af138bc058f2b96c102233',1,'KWin::EffectsModel']]],
+  ['intuniformcount_18',['IntUniformCount',['../class_k_win_1_1_g_l_shader.html#a722159dac6e0dc4c4dab9a7efaa59617a93e05dfca911a6648d92f1a275da60a5',1,'KWin::GLShader']]],
+  ['invalid_19',['Invalid',['../namespace_k_win.html#ab2206ebabcc9101a43b58473495efd03a4bbb8f967da6d1a610596d7257179c2b',1,'KWin']]],
+  ['invalidarguments_20',['InvalidArguments',['../class_k_win_1_1_drm_pipeline.html#a7337b8e75c27725909108cd28f0b9c5bae73a2e92f1c87086c838b442552a4775',1,'KWin::DrmPipeline']]],
+  ['inverted_21',['Inverted',['../namespace_k_win_1_1_k_win_k_screen_integration.html#a19731749930e9748213f57cca5d60838a092807bfb27af96e07475b7eb0865b44',1,'KWin::KWinKScreenIntegration']]],
+  ['isdefault_22',['IsDefault',['../class_k_win_1_1_desktops_model.html#ace81ebdf8ec628c61146d7f39cf952d5a5f1da86dd39f7fdea034d0300c63817c',1,'KWin::DesktopsModel']]],
+  ['ivybridge_23',['IvyBridge',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a4cb1ca4a493fdca3c1578fef3c9180f5',1,'KWin']]]
+];

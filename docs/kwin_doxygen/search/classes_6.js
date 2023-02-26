@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['fakeinputbackend_0',['FakeInputBackend',['../class_k_win_1_1_fake_input_backend.html',1,'KWin']]],
+  ['fakeinputdevice_1',['FakeInputDevice',['../class_k_wayland_server_1_1_fake_input_device.html',1,'KWaylandServer::FakeInputDevice'],['../class_k_win_1_1_fake_input_device.html',1,'KWin::FakeInputDevice']]],
+  ['fakeinputdeviceprivate_2',['FakeInputDevicePrivate',['../class_k_wayland_server_1_1_fake_input_device_private.html',1,'KWaylandServer']]],
+  ['fakeinputinterface_3',['FakeInputInterface',['../class_k_wayland_server_1_1_fake_input_interface.html',1,'KWaylandServer']]],
+  ['fakeinputinterfaceprivate_4',['FakeInputInterfacePrivate',['../class_k_wayland_server_1_1_fake_input_interface_private.html',1,'KWaylandServer']]],
+  ['fakeinputtest_5',['FakeInputTest',['../class_fake_input_test.html',1,'']]],
+  ['fakeoutput_6',['FakeOutput',['../class_fake_output.html',1,'']]],
+  ['fallapartanimation_7',['FallApartAnimation',['../struct_k_win_1_1_fall_apart_animation.html',1,'KWin']]],
+  ['fallaparteffect_8',['FallApartEffect',['../class_k_win_1_1_fall_apart_effect.html',1,'KWin']]],
+  ['fbconfiginfo_9',['FBConfigInfo',['../class_k_win_1_1_f_b_config_info.html',1,'KWin']]],
+  ['filedescriptor_10',['FileDescriptor',['../class_k_win_1_1_file_descriptor.html',1,'KWin']]],
+  ['filtereddisplay_11',['FilteredDisplay',['../class_k_wayland_server_1_1_filtered_display.html',1,'KWaylandServer']]],
+  ['filtereddisplayprivate_12',['FilteredDisplayPrivate',['../class_k_wayland_server_1_1_filtered_display_private.html',1,'KWaylandServer']]],
+  ['focus_13',['Focus',['../struct_k_wayland_server_1_1_seat_interface_private_1_1_keyboard_1_1_focus.html',1,'KWaylandServer::SeatInterfacePrivate::Keyboard::Focus'],['../struct_k_wayland_server_1_1_seat_interface_private_1_1_pointer_1_1_focus.html',1,'KWaylandServer::SeatInterfacePrivate::Pointer::Focus'],['../struct_k_wayland_server_1_1_seat_interface_private_1_1_touch_1_1_focus.html',1,'KWaylandServer::SeatInterfacePrivate::Touch::Focus']]],
+  ['focuschain_14',['FocusChain',['../class_k_win_1_1_focus_chain.html',1,'KWin']]],
+  ['forwardinputfilter_15',['ForwardInputFilter',['../class_k_win_1_1_forward_input_filter.html',1,'KWin']]],
+  ['fpx2_16',['FPx2',['../class_k_win_1_1_f_px2.html',1,'KWin']]],
+  ['fractionalscalemanagerv1interface_17',['FractionalScaleManagerV1Interface',['../class_k_wayland_server_1_1_fractional_scale_manager_v1_interface.html',1,'KWaylandServer']]],
+  ['fractionalscalemanagerv1interfaceprivate_18',['FractionalScaleManagerV1InterfacePrivate',['../class_k_wayland_server_1_1_fractional_scale_manager_v1_interface_private.html',1,'KWaylandServer']]],
+  ['fractionalscalev1interface_19',['FractionalScaleV1Interface',['../class_k_wayland_server_1_1_fractional_scale_v1_interface.html',1,'KWaylandServer']]],
+  ['framesizesarray_20',['FrameSizesArray',['../struct_k_win_1_1_frame_sizes_array.html',1,'KWin']]],
+  ['framesizesarray_3c_204_20_3e_21',['FrameSizesArray&lt; 4 &gt;',['../struct_k_win_1_1_frame_sizes_array.html',1,'KWin']]],
+  ['ftraceduration_22',['FTraceDuration',['../class_k_win_1_1_f_trace_duration.html',1,'KWin']]],
+  ['ftracelogger_23',['FTraceLogger',['../class_k_win_1_1_f_trace_logger.html',1,'KWin']]],
+  ['fullscreeneffectlock_24',['FullScreenEffectLock',['../class_k_win_1_1_full_screen_effect_lock.html',1,'KWin']]]
+];

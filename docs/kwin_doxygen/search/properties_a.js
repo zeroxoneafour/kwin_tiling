@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['latencypolicy_0',['latencyPolicy',['../class_k_win_1_1_options.html#aa02e20bef2bb2977383a231510b14e23',1,'KWin::Options']]],
+  ['layer_1',['layer',['../class_k_win_1_1_window.html#adcb254bbc52101784ed82685e69c97b5',1,'KWin::Window']]],
+  ['layout_2',['layout',['../class_k_win_1_1_desktop_grid_effect.html#ad5dc913c4bf778c31020e48cbd9c65dc',1,'KWin::DesktopGridEffect::layout()'],['../class_k_win_1_1_overview_effect.html#a32a9bed9e796aeb165f8db0756adfd26',1,'KWin::OverviewEffect::layout()'],['../class_expo_cell.html#a8610b87662ff880ba292472d24bc5cd3',1,'ExpoCell::layout()'],['../class_k_win_1_1_window_view_effect.html#a3279569a08b5a7647d2908d1e9171fa7',1,'KWin::WindowViewEffect::layout()']]],
+  ['layoutdirection_3',['layoutDirection',['../class_k_win_1_1_custom_tile.html#a21d0544ad9854c48f0b56005323b27ac',1,'KWin::CustomTile']]],
+  ['left_4',['left',['../class_k_win_1_1_borders.html#aa7eb926094a617fc87edc3e93278e52b',1,'KWin::Borders']]],
+  ['leftbuttonsmodel_5',['leftButtonsModel',['../class_k_decoration2_1_1_preview_1_1_preview_settings.html#a4d2d67d2deecdbef578593f8d0eb3e42',1,'KDecoration2::Preview::PreviewSettings::leftButtonsModel()'],['../class_k_c_m_k_win_decoration.html#a30cf2ab9c1e813fdd02f1033a7e425a9',1,'KCMKWinDecoration::leftButtonsModel()']]],
+  ['lefthanded_6',['leftHanded',['../class_k_win_1_1_lib_input_1_1_device.html#a08cd53babe54a20210507dfc23ee1dd0',1,'KWin::LibInput::Device']]],
+  ['lefthandedenabledbydefault_7',['leftHandedEnabledByDefault',['../class_k_win_1_1_lib_input_1_1_device.html#a24343cc07c2bc43ee2c3b9731484bcec',1,'KWin::LibInput::Device']]],
+  ['lidswitch_8',['lidSwitch',['../class_k_win_1_1_lib_input_1_1_device.html#a12f922ae0838722a0a07d84da18ec054',1,'KWin::LibInput::Device']]],
+  ['linewidth_9',['lineWidth',['../class_k_win_1_1_mouse_click_effect.html#a1f88f303c27a72e2bde6a361a953f92a',1,'KWin::MouseClickEffect::lineWidth()'],['../class_k_win_1_1_touch_points_effect.html#afe93b24d906b26f14537b98151cf91ad',1,'KWin::TouchPointsEffect::lineWidth()']]],
+  ['listofeffects_10',['listOfEffects',['../class_k_win_1_1_effects_handler_impl.html#a0f6bc0591b99bf70303c3c5f5408a176',1,'KWin::EffectsHandlerImpl']]],
+  ['lmrtapbuttonmap_11',['lmrTapButtonMap',['../class_k_win_1_1_lib_input_1_1_device.html#ab87178dd74e47d31c91b95f3c5a7c931',1,'KWin::LibInput::Device']]],
+  ['lmrtapbuttonmapenabledbydefault_12',['lmrTapButtonMapEnabledByDefault',['../class_k_win_1_1_lib_input_1_1_device.html#aeb4771db8a7d9a07e754bc2f5621bcbe',1,'KWin::LibInput::Device']]],
+  ['loadedeffects_13',['loadedEffects',['../class_k_win_1_1_effects_handler_impl.html#a3276ca30c2153a31f948717c142cc39e',1,'KWin::EffectsHandlerImpl']]],
+  ['loadedplugins_14',['LoadedPlugins',['../class_k_win_1_1_plugin_manager_d_bus_interface.html#ab3ffe0a2c081d0e512a9c1b19bb4d9b0',1,'KWin::PluginManagerDBusInterface']]],
+  ['lockscreen_15',['lockScreen',['../group__kwineffects.html#gaf736439764f6253303ec34f5d9ec85e4',1,'KWin::EffectWindow']]]
+];

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['onallactivities_0',['onAllActivities',['../group__kwineffects.html#gab578bcc5faab12c6186b6639874bdb5b',1,'KWin::EffectWindow']]],
+  ['onalldesktops_1',['onAllDesktops',['../class_k_decoration2_1_1_preview_1_1_preview_client.html#a76848bddd80fa3e10afffe666c42d04e',1,'KDecoration2::Preview::PreviewClient::onAllDesktops()'],['../class_k_win_1_1_window.html#ac093de4d3c723b295f1ff93b5aa05393',1,'KWin::Window::onAllDesktops()'],['../group__kwineffects.html#gabcc1dde8845a3aab00152b64bde0c7d3',1,'KWin::EffectWindow::onAllDesktops()']]],
+  ['onalldesktopsavailable_2',['onAllDesktopsAvailable',['../class_k_decoration2_1_1_preview_1_1_preview_settings.html#aea2065599eba782cbad93ffb45153548',1,'KDecoration2::Preview::PreviewSettings']]],
+  ['oncurrentactivity_3',['onCurrentActivity',['../group__kwineffects.html#ga271f7ff723951cdb4c25facc2af3f69b',1,'KWin::EffectWindow']]],
+  ['oncurrentdesktop_4',['onCurrentDesktop',['../group__kwineffects.html#gab826f08ac96bf689d845b86337b746bd',1,'KWin::EffectWindow']]],
+  ['onscreendisplay_5',['onScreenDisplay',['../group__kwineffects.html#ga3da8057f010332782b13202d49da9d42',1,'KWin::EffectWindow::onScreenDisplay()'],['../class_k_win_1_1_window.html#a1eda1e68950fd02ab06c22ec96643ce1',1,'KWin::Window::onScreenDisplay()']]],
+  ['opacity_6',['opacity',['../class_k_win_1_1_thumbnail_aside_effect.html#a05fbfeb4e134365cd1e72fa24ac969fe',1,'KWin::ThumbnailAsideEffect::opacity()'],['../group__kwineffects.html#ga2653c6ea19ffb324de2356a67c4c0458',1,'KWin::EffectWindow::opacity()'],['../class_k_win_1_1_window.html#abb0f10e1968953e89829431415fa803e',1,'KWin::Window::opacity()']]],
+  ['opaque_7',['opaque',['../class_k_wayland_server_1_1_surface_interface.html#a7c2ed0ef60af3e5673de2e997990885f',1,'KWaylandServer::SurfaceInterface']]],
+  ['openglisbroken_8',['openGLIsBroken',['../class_k_win_1_1_compositor_d_bus_interface.html#ad1b75e255e972dd6a5fa2e10cc417fd8',1,'KWin::CompositorDBusInterface']]],
+  ['operationmaxbuttonleftclick_9',['operationMaxButtonLeftClick',['../class_k_win_1_1_options.html#a5f9454e7b2c1d07d2b3602f1cba00ac3',1,'KWin::Options']]],
+  ['operationmaxbuttonmiddleclick_10',['operationMaxButtonMiddleClick',['../class_k_win_1_1_options.html#a93cf84ab1bd68e0657a92fb8f58826b4',1,'KWin::Options']]],
+  ['operationmaxbuttonrightclick_11',['operationMaxButtonRightClick',['../class_k_win_1_1_options.html#a3776f56f0b794a34e171aa9e8938b748',1,'KWin::Options']]],
+  ['operationtitlebardblclick_12',['operationTitlebarDblClick',['../class_k_win_1_1_options.html#a2dd834e32a2bfa453552e9016ebc33e4',1,'KWin::Options']]],
+  ['optionrolloverdesktops_13',['optionRollOverDesktops',['../group__kwineffects.html#ga840615298f9f98325cd73661e5ca4abc',1,'KWin::EffectsHandler']]],
+  ['orientation_14',['orientation',['../class_k_win_1_1_lib_input_1_1_device.html#a515f8433ca0c9430dd458504eaa60df2',1,'KWin::LibInput::Device']]],
+  ['orientationdbus_15',['orientationDBus',['../class_k_win_1_1_lib_input_1_1_device.html#acebbdb697de1a2e81977bbf2d11aba9c',1,'KWin::LibInput::Device']]],
+  ['outdistance_16',['outDistance',['../class_k_win_1_1_glide_effect.html#a67efab340677417dafef73ad0139987b',1,'KWin::GlideEffect']]],
+  ['outline_17',['outline',['../group__kwineffects.html#ga0eb28f47c675bf114de17778e398caa8',1,'KWin::EffectWindow::outline()'],['../class_k_win_1_1_window.html#a80c872dfd7f84fdcb120dbdcefd28e72',1,'KWin::Window::outline()']]],
+  ['outopacity_18',['outOpacity',['../class_k_win_1_1_glide_effect.html#a02b2e4c76b8ba0759ffc4035b77cf742',1,'KWin::GlideEffect']]],
+  ['output_19',['output',['../class_k_win_1_1_desktop_background_item.html#a5374c10a32878dd13e9989f24de9a7ec',1,'KWin::DesktopBackgroundItem::output()'],['../class_k_win_1_1_window.html#ae01b40bf580c920be022d66080e0685c',1,'KWin::Window::output()']]],
+  ['outputarea_20',['outputArea',['../class_k_win_1_1_lib_input_1_1_device.html#ae0e9f9670bc33b6079a1d69351b2947e',1,'KWin::LibInput::Device']]],
+  ['outputname_21',['outputName',['../class_k_win_1_1_lib_input_1_1_device.html#a4db476fbf6c9af5701cabd4b24cc488b',1,'KWin::LibInput::Device::outputName()'],['../class_k_win_1_1_desktop_background_item.html#ae835fb5cab0edb742c7eef3d5a6177bd',1,'KWin::DesktopBackgroundItem::outputName()']]],
+  ['outrotationangle_22',['outRotationAngle',['../class_k_win_1_1_glide_effect.html#a26d27c5db70c32f79887054fa4e29e6e',1,'KWin::GlideEffect']]],
+  ['outrotationedge_23',['outRotationEdge',['../class_k_win_1_1_glide_effect.html#adc0dc9fe30797f935fb51a915fa14eef',1,'KWin::GlideEffect']]]
+];

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['v3d_5f4_5f2_0',['V3D_4_2',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4af22b4cefedc9837710b4cd2349b69e3c',1,'KWin']]],
+  ['va_5fposition_1',['VA_Position',['../namespace_k_win.html#a4559cf19c26624e384566b9859843499a28ec5128ff65bc7e124bcea51873aa3a',1,'KWin']]],
+  ['va_5ftexcoord_2',['VA_TexCoord',['../namespace_k_win.html#a4559cf19c26624e384566b9859843499acb8706a051627d593d64635f4f9487cd',1,'KWin']]],
+  ['valuerole_3',['ValueRole',['../class_k_win_1_1_rules_model.html#a4a74b5b1586adb3d3e5f217c106665e4a42566af92f8f78fe85a5c45b73ae90f2',1,'KWin::RulesModel::ValueRole()'],['../class_k_win_1_1_options_model.html#a0725ab08ada623174f0965203d878da4a66eacdd604a75b962682cc7900db2c46',1,'KWin::OptionsModel::ValueRole()']]],
+  ['vc4_5f2_5f1_4',['VC4_2_1',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a56e1387dcd17e47b3b2cc1d6173bc882',1,'KWin']]],
+  ['vec2uniformcount_5',['Vec2UniformCount',['../class_k_win_1_1_g_l_shader.html#a9c9d1d6b08c0bd51be06a3f4e4b75d2dadbbb8f1f8b7726324a1cfa1c548c1a59',1,'KWin::GLShader']]],
+  ['vec4uniformcount_6',['Vec4UniformCount',['../class_k_win_1_1_g_l_shader.html#a6d59cea8f85957921c86729db6a84b9ba016308a45b4dd18e0f23a0b3b527de8f',1,'KWin::GLShader']]],
+  ['vega_7',['Vega',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4addba1772f3515131870c666d8704dfcd',1,'KWin']]],
+  ['versionrole_8',['VersionRole',['../class_k_win_1_1_effects_model.html#afcd772d699a040e7ae6346f799ebb8c9a455d87343a919e33d9f4c9b58ddf3a24',1,'KWin::EffectsModel']]],
+  ['vertexattributecount_9',['VertexAttributeCount',['../namespace_k_win.html#a4559cf19c26624e384566b9859843499a37d64d713833c316fb5048336ac99dce',1,'KWin']]],
+  ['vertical_10',['Vertical',['../namespace_k_win.html#a7d8a57e0b5454d5598726350206b4fdfa06ce2a25e5d12c166a36f654dbea6012',1,'KWin::Vertical()'],['../class_k_win_1_1_tile.html#a4bf9a2f94d7f7e0b0f81a15843ad325ba06ce2a25e5d12c166a36f654dbea6012',1,'KWin::Tile::Vertical()'],['../class_k_win_1_1_animation_effect.html#ad40ec87323bcabe7a0f5fb868d477551ad2ca49df4be8d318e078cae5ac1667a7',1,'KWin::AnimationEffect::Vertical()']]],
+  ['vertical_5fbgr_11',['Vertical_BGR',['../class_k_win_1_1_output.html#ab37109b7ceca7fe10292bb19a3cbc925a5351c17c334ea7677efeaeb3fa11c7ed',1,'KWin::Output']]],
+  ['vertical_5frgb_12',['Vertical_RGB',['../class_k_win_1_1_output.html#ab37109b7ceca7fe10292bb19a3cbc925a3914ab1d8f69b4cff4a9ef3a90b6de99',1,'KWin::Output']]],
+  ['video_13',['Video',['../namespace_k_win.html#ae822402a75b1dbd6c2afc72f87fa60a6a34e2d1989a1dbf75cd631596133ee5ee',1,'KWin']]],
+  ['videorole_14',['VideoRole',['../class_k_win_1_1_effects_model.html#afcd772d699a040e7ae6346f799ebb8c9aa0aa8db4614d47f23a96bc75291b0699',1,'KWin::EffectsModel']]],
+  ['virtualkeyboard_15',['VirtualKeyboard',['../class_k_win_1_1_input_panel_v1_window.html#aa745c274731904785b415fbec60fdb60a923d34c3ab203148df603d7829bb2160',1,'KWin::InputPanelV1Window']]],
+  ['visitedbackground_16',['VisitedBackground',['../class_color_helper.html#acfbb0ed770ffdc82b309fe7851a77320af2340f0a9661ce119377c81c850b80f7',1,'ColorHelper']]],
+  ['visitedtext_17',['VisitedText',['../class_color_helper.html#aa3e58b1e6ab255f1465af7b9973d5d3fa0376887315cf99a963d6169ccc105668',1,'ColorHelper']]],
+  ['vmaximizeop_18',['VMaximizeOp',['../class_k_win_1_1_options.html#a47885bbac9ddb7f8fc6b945369275075a44b47e044adfc1e15d5575375694a953',1,'KWin::Options']]],
+  ['volcanicislands_19',['VolcanicIslands',['../namespace_k_win.html#aca7b32504df586657f103cf7fdab06a4a41828f8d91a3eb421a7d09559a4c45b5',1,'KWin']]],
+  ['vrr_20',['Vrr',['../class_k_win_1_1_output.html#aaeae09997005463c688f15423069f1aba3a394d060d89a636b17ed1b0245e451e',1,'KWin::Output']]],
+  ['vrrcapable_21',['VrrCapable',['../class_k_win_1_1_drm_connector.html#ad093814184f6daa149e52b7fedb9d7ffa64f04b5a1d0b34dba88263feee3bb15b',1,'KWin::DrmConnector']]],
+  ['vrrenabled_22',['VrrEnabled',['../class_k_win_1_1_drm_crtc.html#a61b8a6d25d69cd8681cd21372890a63daac7af88f3cd453d730ef2b99a0f84e3b',1,'KWin::DrmCrtc']]],
+  ['vsync_23',['VSync',['../namespace_k_wayland_server.html#a06e052e045f9c1cbdb146566f75a9839a98b06ef30caa386be0f897d0e5c5a135',1,'KWaylandServer']]]
+];
