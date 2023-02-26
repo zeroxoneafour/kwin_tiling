@@ -131,7 +131,7 @@ Members of the `workspace` kwin object
 * showOutline
 * hideOutline
 * screenAt
-* tilingForScreen(Screen) -> TileManager
+* tilingForScreen(screen) -> TileManager
 * clientArea
 * desktopName
 * createDesktop

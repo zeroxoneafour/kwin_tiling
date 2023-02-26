@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>index</title>
+  <title>kwin_tilemodel</title>
   <style>
     html {
       color: #1a1a1a;
@@ -165,22 +165,44 @@
   <![endif]-->
 </head>
 <body>
-<h1 id="kwin-tiling-api-docs">KWin Tiling API docs</h1>
+<h1 id="tilemodel">TileModel</h1>
+<p>Found at <code>TileManager.model</code>, usage as of yet unknown</p>
 <ul>
-<li><a href="kwin_doxygen/">Doxygen</a></li>
-</ul>
-<h3 id="objects">Objects</h3>
-<ul>
-<li><a href="kwin_workspace_api.html"><code>workspace</code></a></li>
-<li><a href="kwin_options_api.html"><code>options</code></a></li>
-</ul>
-<h3 id="classes">Classes</h3>
-<ul>
-<li><p><a href="kwin_tilemanager.html">TileManager</a></p></li>
-<li><p><a href="kwin_tile.html">Tile</a></p></li>
-<li><p><a href="kwin_tilemodel.html">TileModel</a></p></li>
-<li><p><a href="kwin_virtualdesktop.html">VirtualDesktop</a></p></li>
-<li><p><a href="kwin_window.html">Window</a></p></li>
+<li>dataChanged: signal()</li>
+<li>headerDataChanged: signal()</li>
+<li>layoutChanged: signal()</li>
+<li>layoutAboutToBeChanged: signal()</li>
+<li>rowsAboutToBeInserted: signal()</li>
+<li>rowsInserted: signal()</li>
+<li>rowsAboutToBeRemoved: signal()</li>
+<li>rowsRemoved: signal()</li>
+<li>columnsAboutToBeInserted: signal()</li>
+<li>columnsInserted: signal()</li>
+<li>columnsAboutToBeRemoved: signal()</li>
+<li>columnsRemoved: signal()</li>
+<li>modelAboutToBeReset: signal()</li>
+<li>modelReset: signal()</li>
+<li>rowsAboutToBeMoved: signal()</li>
+<li>rowsMoved: signal()</li>
+<li>columnsAboutToBeMoved: signal()</li>
+<li>columnsMoved: signal()</li>
+<li>submit: function()</li>
+<li>revert: function()</li>
+<li>resetInternalData: function()</li>
+<li>hasIndex: function()</li>
+<li>index: function()</li>
+<li>parent: function()</li>
+<li>sibling: function()</li>
+<li>rowCount: function()</li>
+<li>columnCount: function()</li>
+<li>hasChildren: function()</li>
+<li>data: function()</li>
+<li>setData: function()</li>
+<li>headerData: function()</li>
+<li>fetchMore: function()</li>
+<li>canFetchMore: function()</li>
+<li>flags: function()</li>
+<li>match: function()</li>
 </ul>
 </body>
 </html>

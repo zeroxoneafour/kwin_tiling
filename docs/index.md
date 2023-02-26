@@ -12,5 +12,4 @@
 * [TileModel](kwin_tilemodel.html)
 
 * [VirtualDesktop](kwin_virtualdesktop.html)
-* [Screen](kwin_screen.html)
 * [Window](kwin_window.html)

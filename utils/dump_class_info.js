@@ -10,4 +10,4 @@ function getProps(obj) {
     return result;
 }
 
-print(getProps(workspace.tilingForScreen(workspace.activeScreen)).join("\n"));
+print(getProps(class_name).join("\n"));

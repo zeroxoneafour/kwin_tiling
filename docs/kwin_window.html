@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>kwin_window</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="window">Window</h1>
+<p>This class is found in an array at
+<code>workspace.clientList()</code>, among other places</p>
+<ul>
+<li>bufferGeometry: QRectF</li>
+<li>pos: QPointF</li>
+<li>size: QSizeF</li>
+<li>x: integer</li>
+<li>y: integer</li>
+<li>width: integer</li>
+<li>height: integer</li>
+<li>opacity: float</li>
+<li>screen: integer</li>
+<li>rect: QRectF</li>
+<li>resourceName: string</li>
+<li>resourceClass: string</li>
+<li>windowRole: string</li>
+<li>desktopWindow: bool</li>
+<li>dock: bool</li>
+<li>toolbar: bool</li>
+<li>menu: bool</li>
+<li>normalWindow: bool</li>
+<li>dialog: bool</li>
+<li>splash: bool</li>
+<li>utility: bool</li>
+<li>dropdownMenu: bool</li>
+<li>popupMenu: bool</li>
+<li>tooltip: bool</li>
+<li>notification: bool</li>
+<li>criticalNotification: bool</li>
+<li>appletPopup: bool</li>
+<li>onScreenDisplay: bool</li>
+<li>comboBox: bool</li>
+<li>dndIcon: bool</li>
+<li>windowType: 1</li>
+<li>managed: bool</li>
+<li>deleted: bool</li>
+<li>shaped: bool</li>
+<li>skipsCloseAnimation: bool</li>
+<li>popupWindow: bool</li>
+<li>outline: bool</li>
+<li>internalId: uuid</li>
+<li>pid: integer</li>
+<li>stackingOrder: integer</li>
+<li>fullScreen: bool</li>
+<li>fullScreenable: bool</li>
+<li>active: bool</li>
+<li>desktop: integer</li>
+<li>onAllDesktops: bool</li>
+<li>activities: unknown</li>
+<li>x11DesktopIds: unknown</li>
+<li>skipTaskbar: bool</li>
+<li>skipPager: bool</li>
+<li>skipSwitcher: bool</li>
+<li>closeable: bool</li>
+<li>icon: QVariant</li>
+<li>keepAbove: bool</li>
+<li>keepBelow: bool</li>
+<li>shadeable: bool</li>
+<li>shade: bool</li>
+<li>minimizable: bool</li>
+<li>minimized: bool</li>
+<li>iconGeometry: QRectF</li>
+<li>specialWindow: bool</li>
+<li>demandsAttention: bool</li>
+<li>caption: string</li>
+<li>minSize: QSizeF</li>
+<li>maxSize: QSizeF</li>
+<li>wantsInput: bool</li>
+<li>transient: bool</li>
+<li>modal: bool</li>
+<li>geometry: QRectF</li>
+<li>frameGeometry: QRectF</li>
+<li>move: bool</li>
+<li>resize: bool</li>
+<li>decorationHasAlpha: bool</li>
+<li>noBorder: bool</li>
+<li>providesContextHelp: bool</li>
+<li>maximizable: bool</li>
+<li>moveable: bool</li>
+<li>moveableAcrossScreens: bool</li>
+<li>resizeable: bool</li>
+<li>desktopFileName: string</li>
+<li>hasApplicationMenu: bool</li>
+<li>applicationMenuActive: bool</li>
+<li>unresponsive: bool</li>
+<li>colorScheme: string</li>
+<li>layer: integer</li>
+<li>hidden: bool</li>
+<li>objectNameChanged: signal()</li>
+<li>stackingOrderChanged: signal()</li>
+<li>shadeChanged: signal()</li>
+<li>opacityChanged: signal()</li>
+<li>damaged: signal()</li>
+<li>inputTransformationChanged: signal()</li>
+<li>geometryChanged: signal()</li>
+<li>geometryShapeChanged: signal()</li>
+<li>windowClosed: signal()</li>
+<li>windowShown: signal()</li>
+<li>windowHidden: signal()</li>
+<li>shapedChanged: signal()</li>
+<li>screenChanged: signal()</li>
+<li>skipCloseAnimationChanged: signal()</li>
+<li>windowRoleChanged: signal()</li>
+<li>windowClassChanged: signal()</li>
+<li>hasAlphaChanged: signal()</li>
+<li>surfaceChanged: signal()</li>
+<li>shadowChanged: signal()</li>
+<li>bufferGeometryChanged: signal()</li>
+<li>frameGeometryChanged: signal()</li>
+<li>clientGeometryChanged: signal()</li>
+<li>frameGeometryAboutToChange: signal()</li>
+<li>visibleGeometryChanged: signal()</li>
+<li>tileChanged: signal()</li>
+<li>fullScreenChanged: signal()</li>
+<li>skipTaskbarChanged: signal()</li>
+<li>skipPagerChanged: signal()</li>
+<li>skipSwitcherChanged: signal()</li>
+<li>iconChanged: signal()</li>
+<li>activeChanged: signal()</li>
+<li>keepAboveChanged: signal()</li>
+<li>keepBelowChanged: signal()</li>
+<li>demandsAttentionChanged: signal()</li>
+<li>desktopPresenceChanged: signal()</li>
+<li>desktopChanged: signal()</li>
+<li>activitiesChanged: signal()</li>
+<li>x11DesktopIdsChanged: signal()</li>
+<li>minimizedChanged: signal()</li>
+<li>clientMinimized: signal()</li>
+<li>clientUnminimized: signal()</li>
+<li>paletteChanged: signal()</li>
+<li>colorSchemeChanged: signal()</li>
+<li>captionChanged: signal()</li>
+<li>clientMaximizedStateAboutToChange: signal()</li>
+<li>clientMaximizedStateChanged: signal()</li>
+<li>transientChanged: signal()</li>
+<li>modalChanged: signal()</li>
+<li>quickTileModeChanged: signal()</li>
+<li>moveResizedChanged: signal()</li>
+<li>moveResizeCursorChanged: signal()</li>
+<li>clientStartUserMovedResized: signal()</li>
+<li>clientStepUserMovedResized: signal()</li>
+<li>clientFinishUserMovedResized: signal()</li>
+<li>closeableChanged: signal()</li>
+<li>minimizeableChanged: signal()</li>
+<li>shadeableChanged: signal()</li>
+<li>maximizeableChanged: signal()</li>
+<li>desktopFileNameChanged: signal()</li>
+<li>applicationMenuChanged: signal()</li>
+<li>hasApplicationMenuChanged: signal()</li>
+<li>applicationMenuActiveChanged: signal()</li>
+<li>unresponsiveChanged: signal()</li>
+<li>decorationChanged: signal()</li>
+<li>hiddenChanged: signal()</li>
+<li>lockScreenOverlayChanged: signal()</li>
+<li>closeWindow: function()</li>
+<li>setReadyForPainting: function()</li>
+<li>setMaximize: function()</li>
+</ul>
+</body>
+</html>

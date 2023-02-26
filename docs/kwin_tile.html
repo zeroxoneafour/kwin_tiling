@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>index</title>
+  <title>kwin_tile</title>
   <style>
     html {
       color: #1a1a1a;
@@ -165,22 +165,36 @@
   <![endif]-->
 </head>
 <body>
-<h1 id="kwin-tiling-api-docs">KWin Tiling API docs</h1>
+<h1 id="tile">Tile</h1>
+<p>Found first at <code>TileManager.rootTile</code></p>
 <ul>
-<li><a href="kwin_doxygen/">Doxygen</a></li>
-</ul>
-<h3 id="objects">Objects</h3>
-<ul>
-<li><a href="kwin_workspace_api.html"><code>workspace</code></a></li>
-<li><a href="kwin_options_api.html"><code>options</code></a></li>
-</ul>
-<h3 id="classes">Classes</h3>
-<ul>
-<li><p><a href="kwin_tilemanager.html">TileManager</a></p></li>
-<li><p><a href="kwin_tile.html">Tile</a></p></li>
-<li><p><a href="kwin_tilemodel.html">TileModel</a></p></li>
-<li><p><a href="kwin_virtualdesktop.html">VirtualDesktop</a></p></li>
-<li><p><a href="kwin_window.html">Window</a></p></li>
+<li>relativeGeometry: QRectF</li>
+<li>absoluteGeometry: QRectF</li>
+<li>absoluteGeometryInScreen: QRectF</li>
+<li>padding: integer</li>
+<li>positionInLayout: integer</li>
+<li>tiles: array[Tile]</li>
+<li>windows: array[Window]</li>
+<li>isLayout: bool</li>
+<li>canBeRemoved: bool</li>
+<li>layoutDirection: integer</li>
+<li>objectNameChanged: signal()</li>
+<li>relativeGeometryChanged: signal()</li>
+<li>absoluteGeometryChanged: signal()</li>
+<li>windowGeometryChanged: signal()</li>
+<li>paddingChanged: signal()</li>
+<li>rowChanged: signal()</li>
+<li>isLayoutChanged: signal()</li>
+<li>childTilesChanged: signal()</li>
+<li>windowAdded: signal()</li>
+<li>windowRemoved: signal()</li>
+<li>windowsChanged: signal()</li>
+<li>layoutDirectionChanged: signal()</li>
+<li>layoutModified: signal()</li>
+<li>resizeByPixels: function()</li>
+<li>moveByPixels: function()</li>
+<li>remove: function()</li>
+<li>split: function()</li>
 </ul>
 </body>
 </html>
