@@ -1,8 +1,16 @@
 # KWin Tiling API docs
 
 * [Doxygen](kwin_doxygen/)
+
+### Objects
 * [`workspace`](kwin_workspace_api.html)
 * [`options`](kwin_options_api.html)
-            <li><a href="kwin_doxygen/">Kwin Doxygen</a></li>
-            <li><a href="kwin_workspace_api.html">Kwin workspace object methods</a></li>
-            <li><a href="kwin_options_api.html">Kwin options object methods</a></li>
+
+### Classes
+* [TileManager](kwin_tilemanager.html)
+* [Tile](kwin_tile.html)
+* [TileModel](kwin_tilemodel.html)
+
+* [VirtualDesktop](kwin_virtualdesktop.html)
+* [Screen](kwin_screen.html)
+* [Window](kwin_window.html)
