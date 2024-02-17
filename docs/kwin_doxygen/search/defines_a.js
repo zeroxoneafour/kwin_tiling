@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['managed_5fhelper_0',['MANAGED_HELPER',['../effects_8cpp.html#a8cfd70c01afaa5c7a9f64781b8e07ddb',1,'effects.cpp']]]
+  ['mockdrm_5fdevice_5fcap_5fatomic_0',['MOCKDRM_DEVICE_CAP_ATOMIC',['../mock__drm_8h.html#a999115459f7a1b8d0e2088aab86bdf92',1,'mock_drm.h']]],
+  ['motion_1',['MOTION',['../decoration__input__test_8cpp.html#aad466159b950f6809028cbd9178a413f',1,'MOTION:&#160;decoration_input_test.cpp'],['../lockscreen_8cpp.html#aad466159b950f6809028cbd9178a413f',1,'MOTION:&#160;lockscreen.cpp']]]
 ];

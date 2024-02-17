@@ -1,9 +1,24 @@
 var searchData=
 [
-  ['y_0',['y',['../struct_k_win_1_1_wobbly_windows_effect_1_1_pair.html#aa7de94beb4187f12c70f4365586a8df4',1,'KWin::WobblyWindowsEffect::Pair']]],
-  ['y_5finverted_1',['y_inverted',['../class_k_win_1_1_f_b_config_info.html#af5b95cea991ac0a3e093e86caae16c99',1,'KWin::FBConfigInfo']]],
-  ['yhot_2',['yhot',['../struct___xcursor_image.html#a334f2d2c4a27431f208431a8c5101e16',1,'_XcursorImage']]],
-  ['yinverted_3',['yInverted',['../class_k_wayland_server_1_1_drm_client_buffer_private.html#ac92d0045983bad5f7d41bffe09e03850',1,'KWaylandServer::DrmClientBufferPrivate']]],
-  ['ytesselation_4',['yTesselation',['../struct_k_win_1_1_parameter_set.html#a59f2f8c3aa4bc15e097589d26c5de77d',1,'KWin::ParameterSet']]],
-  ['yuvformats_5',['yuvFormats',['../namespace_k_win.html#ab72a1f293ea8bbe4323f72e5dbef99ce',1,'KWin']]]
+  ['x_0',['x',['../struct_k_win_1_1_wobbly_windows_effect_1_1_pair.html#a9f1100be7db78288e1beae151e10c622',1,'KWin::WobblyWindowsEffect::Pair']]],
+  ['xdgdecorationmanagerv1_1',['xdgDecorationManagerV1',['../namespace_k_win_1_1_test.html#afd83e3dda9b8ad48339fd021c2f31fa4',1,'KWin::Test']]],
+  ['xdgshell_2',['xdgShell',['../namespace_k_win_1_1_test.html#a67a8d1da1ac217a47b4aa25539cd9c70',1,'KWin::Test']]],
+  ['xdgsurface_3',['xdgSurface',['../class_k_win_1_1_xdg_toplevel_interface_private.html#a8dcac7f21d2ac43af3e74209d653cf85',1,'KWin::XdgToplevelInterfacePrivate::xdgSurface'],['../class_k_win_1_1_xdg_popup_interface_private.html#a0e5c1818ad518227fd7072b450c27e41',1,'KWin::XdgPopupInterfacePrivate::xdgSurface']]],
+  ['xdgtopleveldrag_4',['xdgToplevelDrag',['../class_k_win_1_1_data_source_interface_private.html#a75558ea045b98d538bedaa82afdee93c',1,'KWin::DataSourceInterfacePrivate']]],
+  ['xdnd_5faction_5fask_5',['xdnd_action_ask',['../class_k_win_1_1_atoms.html#a863bb3a500980dfcf76ed25c39a39c51',1,'KWin::Atoms']]],
+  ['xdnd_5faction_5fcopy_6',['xdnd_action_copy',['../class_k_win_1_1_atoms.html#a4f20fc8db02e13ddbb291baaabd8a963',1,'KWin::Atoms']]],
+  ['xdnd_5faction_5fmove_7',['xdnd_action_move',['../class_k_win_1_1_atoms.html#ae674905fe9f6c95119018c70c6df5b34',1,'KWin::Atoms']]],
+  ['xdnd_5faware_8',['xdnd_aware',['../class_k_win_1_1_atoms.html#a7b20de89f8d7c7d06ae9b941d94c077c',1,'KWin::Atoms']]],
+  ['xdnd_5fdrop_9',['xdnd_drop',['../class_k_win_1_1_atoms.html#a4def471a9c87269d5a461dd231cc067a',1,'KWin::Atoms']]],
+  ['xdnd_5fenter_10',['xdnd_enter',['../class_k_win_1_1_atoms.html#a1e29c9fce2c435b515f89ad191fe0600',1,'KWin::Atoms']]],
+  ['xdnd_5ffinished_11',['xdnd_finished',['../class_k_win_1_1_atoms.html#a0ad007c3a531222a8707e93dd243b424',1,'KWin::Atoms']]],
+  ['xdnd_5fleave_12',['xdnd_leave',['../class_k_win_1_1_atoms.html#a1c8def8e669f66e488acd475ea280524',1,'KWin::Atoms']]],
+  ['xdnd_5fposition_13',['xdnd_position',['../class_k_win_1_1_atoms.html#ad9e07a68bc2c8f07ae47081d3bfeccd4',1,'KWin::Atoms']]],
+  ['xdnd_5fselection_14',['xdnd_selection',['../class_k_win_1_1_atoms.html#ab5cbc2498cbf0bd69d9e21bc1b479d87',1,'KWin::Atoms']]],
+  ['xdnd_5fstatus_15',['xdnd_status',['../class_k_win_1_1_atoms.html#a856f8c2177fb46133f3966634c19d640',1,'KWin::Atoms']]],
+  ['xdnd_5ftype_5flist_16',['xdnd_type_list',['../class_k_win_1_1_atoms.html#af2e8bfeb115ec1972745ae34e0ef62e3',1,'KWin::Atoms']]],
+  ['xhot_17',['xhot',['../struct___xcursor_image.html#a40265c8dce6474ab9d6af9f21641133a',1,'_XcursorImage']]],
+  ['xtesselation_18',['xTesselation',['../struct_k_win_1_1_parameter_set.html#ad5fea5bcba034b1861d2b98e11d95f23',1,'KWin::ParameterSet']]],
+  ['xwaylandinterfaces_19',['xwaylandInterfaces',['../class_k_win_1_1_k_win_display.html#a16a6d63a6c000ab3d510c3a76e688082',1,'KWin::KWinDisplay']]],
+  ['xxcolorsurface_20',['xxColorSurface',['../class_k_win_1_1_surface_interface_private.html#a459a92ce0ad397616a64ef95957c38e1',1,'KWin::SurfaceInterfacePrivate']]]
 ];

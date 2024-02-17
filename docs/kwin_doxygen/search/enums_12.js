@@ -1,20 +1,19 @@
 var searchData=
 [
-  ['tabboxmode_0',['TabBoxMode',['../class_k_win_1_1_tab_box_1_1_tab_box_config.html#a0b627b51babda4295cff93fc4d647ab8',1,'KWin::TabBox::TabBoxConfig::TabBoxMode()'],['../namespace_k_win.html#aad393b058dfa58c0c3ca91c0c2b5f858',1,'KWin::TabBoxMode()']]],
+  ['tabboxmode_0',['TabBoxMode',['../namespace_k_win.html#aad393b058dfa58c0c3ca91c0c2b5f858',1,'KWin']]],
   ['tabboxtype_1',['TabboxType',['../class_k_win_1_1_k_win_tab_box_config_form.html#ab8a9f283bd6ce8c9ab08658853b3d5f5',1,'KWin::KWinTabBoxConfigForm']]],
   ['tableteventtype_2',['TabletEventType',['../class_k_win_1_1_input_redirection.html#a490491c340912f3da68d90fb5846b2b7',1,'KWin::InputRedirection']]],
   ['tablettooltype_3',['TabletToolType',['../class_k_win_1_1_input_redirection.html#aaf035d3658ad9d14a0398361a76dda2b',1,'KWin::InputRedirection']]],
   ['terminationflag_4',['TerminationFlag',['../class_k_win_1_1_animation_effect.html#a9c6611cc8312646efd31f3eb9c3f3f69',1,'KWin::AnimationEffect']]],
-  ['textinputchangecause_5',['TextInputChangeCause',['../namespace_k_wayland_server.html#af360e7d749cf79debd25f4427cea2f41',1,'KWaylandServer']]],
-  ['textinputcontenthint_6',['TextInputContentHint',['../namespace_k_wayland_server.html#adb683003615d8ee22dcfdf187ec3546f',1,'KWaylandServer']]],
-  ['textinputcontentpurpose_7',['TextInputContentPurpose',['../namespace_k_wayland_server.html#a61939c3fb6ef707bb0485e42633ca2c8',1,'KWaylandServer']]],
+  ['textinputchangecause_5',['TextInputChangeCause',['../namespace_k_win.html#a79c0b50fcde5dfd404bf89c1f101237e',1,'KWin']]],
+  ['textinputcontenthint_6',['TextInputContentHint',['../namespace_k_win.html#a0b54d29cd5d4773605dbba26934d6197',1,'KWin']]],
+  ['textinputcontentpurpose_7',['TextInputContentPurpose',['../namespace_k_win.html#ab2addc3b8b9ec94f61414f824dd23c26',1,'KWin']]],
   ['texturecoordinatetype_8',['TextureCoordinateType',['../namespace_k_win.html#ad6098fc293bb371948ad74f841c6a7b7',1,'KWin']]],
   ['thumbnail_9',['Thumbnail',['../class_k_win_1_1_window_thumbnail_item.html#a280897ea784c91c152824021e55cac14',1,'KWin::WindowThumbnailItem']]],
   ['timestampupdate_10',['TimestampUpdate',['../class_k_win_1_1_application.html#a9508414bb96fe1d639df035154f25866',1,'KWin::Application']]],
-  ['trancheflag_11',['TrancheFlag',['../class_k_wayland_server_1_1_linux_dma_buf_v1_feedback.html#ae594cb35818094e0290ea40f012fe919',1,'KWaylandServer::LinuxDmaBufV1Feedback']]],
-  ['transform_12',['Transform',['../group__kwineffects.html#ga334510ef973d4173d343e66036af23db',1,'KWin::EffectScreen::Transform()'],['../class_k_win_1_1_output.html#a82c707e1353e19cdd2625da72a2aa8e5',1,'KWin::Output::Transform()']]],
-  ['transformation_13',['Transformation',['../class_k_win_1_1_drm_plane.html#acac567f6431e9bfcabfe8d309166c9eb',1,'KWin::DrmPlane']]],
-  ['triggertype_14',['TriggerType',['../class_button_rebinds_filter.html#a33c5baa3b6fde38c00836f7f78cc54b7',1,'ButtonRebindsFilter']]],
-  ['type_15',['Type',['../class_k_win_1_1_session.html#ac65b810fca4a1ea95f3e88884f7a1f52',1,'KWin::Session::Type()'],['../class_k_win_1_1_rule_policy.html#a78f3c9d8769bdb3d72face12b73f11ec',1,'KWin::RulePolicy::Type()'],['../class_k_win_1_1_rule_item.html#a499cd568335dfee4c549c1b2cf1e8792',1,'KWin::RuleItem::Type()'],['../class_k_win_1_1_rules.html#af260e8f34c4f8e04cc312fe34c135501',1,'KWin::Rules::Type()'],['../class_k_wayland_server_1_1_tablet_tool_v2_interface.html#a5e4cb56819af4c9eec79b96f40218137',1,'KWaylandServer::TabletToolV2Interface::Type()'],['../class_k_win_1_1_unix_socket_address.html#acac2f5f2d29ecc52abab391893b8cff0',1,'KWin::UnixSocketAddress::Type()']]],
-  ['typeindex_16',['TypeIndex',['../class_k_win_1_1_drm_plane.html#a000c1cd32244f79da45ca2c110a6b908',1,'KWin::DrmPlane']]]
+  ['trancheflag_11',['TrancheFlag',['../class_k_win_1_1_linux_dma_buf_v1_feedback.html#a9b0afcafb17d66d526a7075627c51308',1,'KWin::LinuxDmaBufV1Feedback']]],
+  ['transformation_12',['Transformation',['../class_k_win_1_1_drm_plane.html#acac567f6431e9bfcabfe8d309166c9eb',1,'KWin::DrmPlane']]],
+  ['triggertype_13',['TriggerType',['../class_button_rebinds_filter.html#a33c5baa3b6fde38c00836f7f78cc54b7',1,'ButtonRebindsFilter']]],
+  ['type_14',['Type',['../class_k_win_1_1_session.html#ac65b810fca4a1ea95f3e88884f7a1f52',1,'KWin::Session::Type'],['../class_k_win_1_1_rule_policy.html#a78f3c9d8769bdb3d72face12b73f11ec',1,'KWin::RulePolicy::Type'],['../class_k_win_1_1_rule_item.html#a499cd568335dfee4c549c1b2cf1e8792',1,'KWin::RuleItem::Type'],['../class_k_win_1_1_rules.html#af260e8f34c4f8e04cc312fe34c135501',1,'KWin::Rules::Type'],['../class_k_win_1_1_tablet_tool_v2_interface.html#a574883f83c16ce1c342992c87f1c215d',1,'KWin::TabletToolV2Interface::Type'],['../class_k_win_1_1_unix_socket_address.html#acac2f5f2d29ecc52abab391893b8cff0',1,'KWin::UnixSocketAddress::Type']]],
+  ['typeindex_15',['TypeIndex',['../class_k_win_1_1_drm_plane.html#a3cf72c069e4b10ac10646deba960d050',1,'KWin::DrmPlane']]]
 ];

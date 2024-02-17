@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['plasma_0',['Plasma',['../namespace_plasma.html',1,'']]]
+  ['qtwayland_0',['QtWayland',['../namespace_qt_wayland.html',1,'']]]
 ];

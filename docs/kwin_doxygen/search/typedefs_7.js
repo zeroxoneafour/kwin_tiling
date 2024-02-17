@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['mime_0',['Mime',['../namespace_k_win_1_1_xwl.html#a578b4ea26cb15ae55695851f112d10b5',1,'KWin::Xwl']]],
-  ['mimes_1',['Mimes',['../namespace_k_win_1_1_xwl.html#abdfd0c391c2d825504d37a622c80008f',1,'KWin::Xwl']]]
+  ['pointercursor_0',['PointerCursor',['../namespace_k_win.html#a1f59b09426418b14e99ede98c6a021f6',1,'KWin']]],
+  ['pointerfunc_1',['PointerFunc',['../pointer__constraints__test_8cpp.html#a81106ee315b340a96edb1556ec2ffece',1,'pointer_constraints_test.cpp']]],
+  ['propertyeffectmap_2',['PropertyEffectMap',['../class_k_win_1_1_effects_handler.html#a229a83c757b3f0a6237cf88fef717a83',1,'KWin::EffectsHandler']]]
 ];

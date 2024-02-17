@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['fakeinput_5finterface_2ecpp_0',['fakeinput_interface.cpp',['../fakeinput__interface_8cpp.html',1,'']]],
-  ['fakeinput_5finterface_2eh_1',['fakeinput_interface.h',['../fakeinput__interface_8h.html',1,'']]],
+  ['fakedecoration_5fwith_5fshadows_2ecpp_0',['fakedecoration_with_shadows.cpp',['../fakedecoration__with__shadows_8cpp.html',1,'']]],
+  ['fakeinput_5ftest_2ecpp_1',['fakeinput_test.cpp',['../fakeinput__test_8cpp.html',1,'']]],
   ['fakeinputbackend_2ecpp_2',['fakeinputbackend.cpp',['../fakeinputbackend_8cpp.html',1,'']]],
   ['fakeinputbackend_2eh_3',['fakeinputbackend.h',['../fakeinputbackend_8h.html',1,'']]],
   ['fakeinputdevice_2ecpp_4',['fakeinputdevice.cpp',['../fakeinputdevice_8cpp.html',1,'']]],
@@ -16,9 +16,12 @@ var searchData=
   ['filtered_5fdisplay_2eh_13',['filtered_display.h',['../filtered__display_8h.html',1,'']]],
   ['focuschain_2ecpp_14',['focuschain.cpp',['../focuschain_8cpp.html',1,'']]],
   ['focuschain_2eh_15',['focuschain.h',['../focuschain_8h.html',1,'']]],
-  ['fractionalscale_5fv1_5finterface_2ecpp_16',['fractionalscale_v1_interface.cpp',['../fractionalscale__v1__interface_8cpp.html',1,'']]],
-  ['fractionalscale_5fv1_5finterface_2eh_17',['fractionalscale_v1_interface.h',['../fractionalscale__v1__interface_8h.html',1,'']]],
-  ['fractionalscale_5fv1_5finterface_5fp_2eh_18',['fractionalscale_v1_interface_p.h',['../fractionalscale__v1__interface__p_8h.html',1,'']]],
-  ['ftrace_2ecpp_19',['ftrace.cpp',['../ftrace_8cpp.html',1,'']]],
-  ['ftrace_2eh_20',['ftrace.h',['../ftrace_8h.html',1,'']]]
+  ['fractional_5fscaling_5ftest_2ecpp_16',['fractional_scaling_test.cpp',['../fractional__scaling__test_8cpp.html',1,'']]],
+  ['fractionalscale_5fv1_2ecpp_17',['fractionalscale_v1.cpp',['../fractionalscale__v1_8cpp.html',1,'']]],
+  ['fractionalscale_5fv1_2eh_18',['fractionalscale_v1.h',['../fractionalscale__v1_8h.html',1,'']]],
+  ['fractionalscale_5fv1_5fp_2eh_19',['fractionalscale_v1_p.h',['../fractionalscale__v1__p_8h.html',1,'']]],
+  ['frog_5fcolormanagement_5fv1_2ecpp_20',['frog_colormanagement_v1.cpp',['../frog__colormanagement__v1_8cpp.html',1,'']]],
+  ['frog_5fcolormanagement_5fv1_2eh_21',['frog_colormanagement_v1.h',['../frog__colormanagement__v1_8h.html',1,'']]],
+  ['ftrace_2ecpp_22',['ftrace.cpp',['../ftrace_8cpp.html',1,'']]],
+  ['ftrace_2eh_23',['ftrace.h',['../ftrace_8h.html',1,'']]]
 ];

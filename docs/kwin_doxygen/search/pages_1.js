@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kwin_20effects_20library_0',['KWin Effects Library',['../index.html',1,'']]]
+  ['kwin_0',['KWin',['../index.html',1,'']]]
 ];
